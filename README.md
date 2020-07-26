@@ -1,6 +1,6 @@
 Digital Hub - Backend Assignment
 
-How to run the API Rest
+How to run the API Rest DEveloped in Spring Boot
 
 #First be sure to have java 8 or higher versions, Mysql and any software for Api testing(I use postman)
 
